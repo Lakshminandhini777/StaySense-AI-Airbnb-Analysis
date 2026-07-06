@@ -25,4 +25,4 @@ This project analyzes the Airbnb NYC 2019 dataset to discover trends in listing 
 Airbnb NYC 2019 Dataset
 
 ## Author
-Nandhini Murugan
+LAKSHMINANDHINI.M
